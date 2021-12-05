@@ -13,7 +13,7 @@ Install requirements
 
 ```console
 
-pip install req.txt
+pip install -r req.txt
 
 ```
 
