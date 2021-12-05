@@ -1,6 +1,6 @@
-How to use this project?
+## How to use this project?
 
-Create and activate your environment
+* Create and activate your environment
 
 ```console
 py -m venv venv
@@ -9,7 +9,7 @@ py -m venv venv
 
 ```
 
-Install requirements 
+* Install requirements 
 
 ```console
 
@@ -17,7 +17,7 @@ pip install -r req.txt
 
 ```
 
-Run the application 
+* Run the application 
 
 ```console
 
